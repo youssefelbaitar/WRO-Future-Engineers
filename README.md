@@ -32,6 +32,13 @@ Choosing the motors is an important step to build the vehicle. We used only 1 bi
 We tried to copy f1 vehicles shape.The steering mechanism is located in the front, utilizes smaller wheels. Additionally, positioning the larger wheels as close to each other as possible, for more stability and agility.
 
 ***
+### Sensors
+
+Our vehicle is simple,with only two color sensor crucial for obstacle avoidance and turns.
+
+Color Sensor1: This sensor is employed to identify turns and determine the driving direction by reading colored lines (orange or blue) on the competition field.
+Color Sensor2: This sensor is employed to identify the obstacles either red or green
+
 
 
 
