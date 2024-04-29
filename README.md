@@ -2,7 +2,7 @@
 ***
 
 
-**Hey it's      team and this is our repository. It comprises all the engineering materials for autonomus vehicle model participating in the 2024 WRO Future Engineers competition.**
+**Hey it's     team and this is our repository. It comprises all the engineering materials for autonomus vehicle model participating in the 2024 WRO Future Engineers competition.**
 
 ***
 
@@ -37,7 +37,9 @@ We tried to copy f1 vehicles shape.The steering mechanism is located in the fron
 Our vehicle is simple,with only two color sensor crucial for obstacle avoidance and turns.
 
 Color Sensor1: This sensor is employed to identify turns and determine the driving direction by reading colored lines (orange or blue) on the competition field.
+
 Color Sensor2: This sensor is employed to identify the obstacles either red or green
+
 
 
 
