@@ -2,7 +2,7 @@
 ***
 
 
-**Hey it's     team and this is our repository. It comprises all the engineering materials for autonomus vehicle model participating in the 2024 WRO Future Engineers competition.**
+**Hey it's   team and this is our repository. It comprises all the engineering materials for autonomus vehicle model participating in the 2024 WRO Future Engineers competition.**
 
 ***
 
