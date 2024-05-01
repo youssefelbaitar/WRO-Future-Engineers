@@ -1,6 +1,6 @@
 
 ***
-## <p align="center"> Hey we are team Astra we are 3, Rym, Adam, and Youssef, 15-year-old coders, We've joined the WRO Future Engineers competition, and this is our repository. It comprises all the engineering materials for our autonomus vehicle model participating in the 2024 WRO Future Engineers competition. </p>
+## <p align="center"> Hey we are team Astra we are 3, Rym, Adam, and Youssef, 15-year-old coders, and this is our repository. It comprises all the engineering materials for our autonomus vehicle model participating in the 2024 WRO Future Engineers competition. </p>
 
 ***
 
@@ -11,7 +11,20 @@
 </div>
 
 ***
+## The microcontroller:
+| Feature         | Description                                                          |
+|-----------------|----------------------------------------------------------------------|                   |
+| Processor       | ARM9 processor running at 300 MHz                                    |
+| Memory          | 64 MB RAM, 16 MB flash storage                                       |
+| Ports           | Four motor ports, four sensor ports                                  |
+| Connectivity    | USB port, SD card slot, Bluetooth                                    |
+| Display         | Monochrome LCD display                                               |
+| Controls        | Buttons for navigation and control                                   |
+| Software        | LEGO Mindstorms EV3 software, supports languages like Python and C++ |
+| Use Cases       | Robotics education, hobbyist projects, competitions                  |
+| Community       | Large online community, resources, tutorials                         |
 
+![EV3 Brick](link_to_image)
 
 ## Our vehicle: 
 
