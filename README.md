@@ -1,8 +1,6 @@
 
 ***
-
-
-**Hey we are team Astra we are 3, Rym, Adam, and Youssef, 15-year-old coders, We've joined the WRO Future Engineers competition, and this is our repository. It comprises all the engineering materials for our autonomus vehicle model participating in the 2024 WRO Future Engineers competition.**
+## <p align="center"> Hey we are team Astra we are 3, Rym, Adam, and Youssef, 15-year-old coders, We've joined the WRO Future Engineers competition, and this is our repository. It comprises all the engineering materials for our autonomus vehicle model participating in the 2024 WRO Future Engineers competition. </p>
 
 ***
 
