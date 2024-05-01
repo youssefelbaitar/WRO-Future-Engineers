@@ -12,6 +12,8 @@
 
 ***
 ## The microcontroller:
+![ev3 brick](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/0fbedc76-909a-4cc2-b3f7-b71e2b176adb)
+
 <table>
   <thead>
     <tr>
@@ -58,8 +60,6 @@
     </tr>
   </tbody>
 </table>
-![ev3](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/a2ffa1bc-07d1-4f75-a261-57213c13199d)
-
 
 ***
 ## Our vehicle: 
