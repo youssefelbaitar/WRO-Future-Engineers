@@ -79,9 +79,14 @@
 
 We used the EV3 MINDSTORMS Educational kit. We chose to use a racing car shape so it could move fluidly and dodge the obstacles
 
-A 3D model of the robot made in Studio 2.0 can be found here:
+A 3D model of the robot made in Studio 2.0 :
+
+![finalfirstproduct](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/dbaef324-04d2-4831-9cfe-4c9155e96a13)
+
 
 The final program/code for our autonomous vehicle can be found here: 
+
+
 ***
 ## Mobility Management
 
