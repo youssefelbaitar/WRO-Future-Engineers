@@ -12,17 +12,55 @@
 
 ***
 ## The microcontroller:
-| Feature         | Description                                                          |
-|-----------------|----------------------------------------------------------------------|                   |
-| Processor       | ARM9 processor running at 300 MHz                                    |
-| Memory          | 64 MB RAM, 16 MB flash storage                                       |
-| Ports           | Four motor ports, four sensor ports                                  |
-| Connectivity    | USB port, SD card slot, Bluetooth                                    |
-| Display         | Monochrome LCD display                                               |
-| Controls        | Buttons for navigation and control                                   |
-| Software        | LEGO Mindstorms EV3 software, supports languages like Python and C++ |
-| Use Cases       | Robotics education, hobbyist projects, competitions                  |
-| Community       | Large online community, resources, tutorials                         |
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Processor</td>
+      <td>ARM9 processor running at 300 MHz</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>64 MB RAM, 16 MB flash storage</td>
+    </tr>
+    <tr>
+      <td>Ports</td>
+      <td>Four motor ports, four sensor ports</td>
+    </tr>
+    <tr>
+      <td>Connectivity</td>
+      <td>USB port, SD card slot, Bluetooth</td>
+    </tr>
+    <tr>
+      <td>Display</td>
+      <td>Monochrome LCD display</td>
+    </tr>
+    <tr>
+      <td>Controls</td>
+      <td>Buttons for navigation and control</td>
+    </tr>
+    <tr>
+      <td>Software</td>
+      <td>LEGO Mindstorms EV3 software, supports languages like Python and C++</td>
+    </tr>
+    <tr>
+      <td>Use Cases</td>
+      <td>Robotics education, hobbyist projects, competitions</td>
+    </tr>
+    <tr>
+      <td>Community</td>
+      <td>Large online community, resources, tutorials</td>
+    </tr>
+  </tbody>
+</table>
+![31uzGocdrPL _AC_UF894,1000_QL80_](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/6959e1a3-b41b-46d6-bad6-7b4bb34abd26)
+
+
 
 ![EV3 Brick](link_to_image)
 
