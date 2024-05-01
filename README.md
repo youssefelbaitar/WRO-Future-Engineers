@@ -58,12 +58,10 @@
     </tr>
   </tbody>
 </table>
-![31uzGocdrPL _AC_UF894,1000_QL80_](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/6959e1a3-b41b-46d6-bad6-7b4bb34abd26)
+![ev3](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/a2ffa1bc-07d1-4f75-a261-57213c13199d)
 
 
-
-![EV3 Brick](link_to_image)
-
+***
 ## Our vehicle: 
 
 We used the EV3 MINDSTORMS Educational kit. We chose to use a racing car shape so it could move fluidly and dodge the obstacles
