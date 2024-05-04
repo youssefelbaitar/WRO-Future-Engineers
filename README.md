@@ -6,7 +6,9 @@
 
 <div align=center>
 
-![logo](./img/.png)
+![logo](.)
+
+<img src="file:///C:/Users/ysfha/Downloads/Astra%20robotics.png">
 
 </div>
 
