@@ -7,9 +7,9 @@
 <div align=center>
 
 ![logo](.)
-
-<img src="file:///C:/Users/ysfha/Downloads/Astra%20robotics.png">
-
+<p align="center">
+  <img src="file:///C:/Users/ysfha/Downloads/Astra%20robotics.png">
+</p>
 </div>
 
 ***
