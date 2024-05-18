@@ -6,9 +6,9 @@
 
 <div align=center>
 
-![logo](.)
-<p align="center">![Astra robotics (1)](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/90630089-e7df-43f4-87fb-2baca1aacd37)
+![logo](.)[Astra robotics (1)](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/90630089-e7df-43f4-87fb-2baca1aacd37)
 
+<p align="center">!
 </p>
 </div>
 
