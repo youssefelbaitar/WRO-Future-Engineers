@@ -1,11 +1,15 @@
 
 ***
 ## <p align="center"> Hey we are team Astra we are 3, Rym, Adam, and Youssef, 15-year-old coders, and this is our repository. It comprises all the engineering materials for our autonomus vehicle model participating in the 2024 WRO Future Engineers competition. </p>
+
 <div align=center>
+  
 ***
 this is our team :
 ![WhatsApp Image 2024-05-18 at 17 59 31](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/a29da0b3-5f08-4e1f-a1ec-4250f79eeb3c)
+
 <div align=center>
+  
 ![WhatsApp Image 2024-05-18 at 17 59 33](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/eb98efcf-f1fc-4408-a98d-319810468f3d)
 
 
