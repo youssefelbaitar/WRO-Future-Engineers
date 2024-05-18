@@ -6,9 +6,8 @@
 
 <div align=center>
 
-![logo](.)
+![logo](.)[Astra robotics.zip](https://github.com/youssefelbaitar/WRO-Future-Engineers/files/15366072/Astra.robotics.zip)
 <p align="center">
-  <img src="file:///C:/Users/ysfha/Downloads/Astra%20robotics.png">
 </p>
 </div>
 
