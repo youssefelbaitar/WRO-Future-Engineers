@@ -6,7 +6,8 @@
 
 <div align=center>
 
-  ![Astra robotics (1)](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/0b05f5a5-e9b9-44ca-aab5-c7789a9680e1)
+![Astra_robotics__2_-removebg-preview](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/a604f669-20ef-4af0-9544-f86272edc464)
+
 
 <p align="center">!
 </p>
