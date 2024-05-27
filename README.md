@@ -21,6 +21,7 @@
 
 <div align=center>
 
+
 ![Astra_robotics__2_-removebg-preview](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/168293228/a604f669-20ef-4af0-9544-f86272edc464)
 
 
