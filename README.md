@@ -108,10 +108,9 @@ This was our first version but the issue it that it wasn't really stable
 And this is our last version way more efficient and stable
 
 
-###The Open Challenge code for our autonomous vehicle : 
+## The Open Challenge code for our autonomous vehicle : 
 
-Script Breakdown
-Imports and Initialization:
+### Script Breakdown Imports and Initialization:
 
 The script imports necessary classes and functions from the pybricks library.
 Initializes two motors, several sensors (ultrasonic and gyro), and sets the gyro sensor angle to zero.
@@ -119,7 +118,7 @@ Initializes the EV3 brick for feedback and control.
 
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/ec371415-06b1-43b8-ae90-3c962796c29b)
 
-Motor and Sensor Setup:
+### Motor and Sensor Setup:
 
 Two motors are configured: a large motor on port D and a smaller motor on port B.
 Ultrasonic sensors are attached to three ports: front (S1), right (S3), and left (S4).
@@ -127,13 +126,13 @@ A gyro sensor is attached to port S2.
 
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/6d5a596c-a874-4f37-9595-b2552c53f574)
 
-Function Definitions:
+### Function Definitions:
 
 Functions Turn_Right and Turn_Left are defined to control the small motor for turning the robot.
 
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/3bcdfbcc-2d30-46fe-a6ed-33d2b1b17100)
 
-Main Loop:
+### Main Loop:
 
 The main loop continuously runs, making decisions based on sensor readings.
 The robot moves forward if there is no obstacle within 165 mm in front.
