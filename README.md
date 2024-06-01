@@ -102,8 +102,10 @@ A 3D model of our first robot version in Studio 2.0 :
 
 ![finalfirstproduct](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/dbaef324-04d2-4831-9cfe-4c9155e96a13)
 
-We changed the shape of our robot and made it largeur instead of longueur so it can move quickly and more efficently .
+This was our first version but the issue it that it wasn't really stable
+![f2584cbe-6115-41a7-b710-c312dd14e4d2-removebg-preview](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/20b291f2-d3e5-4f2c-8db0-7427d46e603a)
 
+And this is our last version way more efficient and stable
 
 
 The final program/code for our autonomous vehicle can be found here: 
@@ -212,7 +214,7 @@ Our vehicle is simple,with only two color sensor crucial for obstacle avoidance 
 
 
   
-### Vehicle Sensors Overview
+### Vehicle Sensors Overview Version 1
 
 <body>
     <table>
@@ -238,6 +240,35 @@ Our vehicle is simple,with only two color sensor crucial for obstacle avoidance 
 ![1](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/a5cf38b7-1196-4f77-b6f1-67d52d299269)
 
 </p>
+
+### Vehicle Sensors Overview Version 2
+<body>
+    <table>
+        <tr>
+            <th>Sensor</th>
+            <th>Purpose</th>
+            <th>Functionality</th>
+        </tr>
+        <tr>
+            <td>UltraSensor 1</td>
+            <td>Obstacle detection</td>
+            <td>Reads colored lines (orange or blue) on the competition field to determine driving direction.</td>
+        </tr>
+        <tr>
+            <td>UltraSensor 2/3 </td>
+            <td>Walls Detection</td>
+            <td>the robot keeps going straight when there are walss from both side but when he detects a big distance it means there is no inner wall so he will turn</td>
+        </tr>
+              <tr>
+            <td>4 Gyro </td>
+            <td>Turn detection</td>
+            <td> It helps the robot to turn in stable way </td>
+        </tr>
+    </table>
+  </body>
+
+![1](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/87ed17b8-d04a-4fbf-a233-6cbe88795520)
+
 
 
 
