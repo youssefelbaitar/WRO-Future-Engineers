@@ -108,7 +108,8 @@ This was our first version but the issue it that it wasn't really stable
 And this is our last version way more efficient and stable
 
 
-The final program/code for our autonomous vehicle can be found here: 
+###The Open Challenge code for our autonomous vehicle : 
+
 Script Breakdown
 Imports and Initialization:
 
