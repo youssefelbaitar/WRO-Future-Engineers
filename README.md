@@ -237,8 +237,9 @@ We tried to copy f1 vehicles shape.The steering mechanism is located in the fron
 
 <p align="center">
 
-  
-![robot hehe](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/08faa470-58ce-440f-a0d2-4ba979c20e14)
+  ![Diseño sin título](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/3ec9081c-b8d5-4fd0-8456-c5bd9a1cc773)
+
+
 
 
 </p>
