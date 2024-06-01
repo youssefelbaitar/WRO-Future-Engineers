@@ -293,7 +293,7 @@ Our vehicle is simple,with only two color sensor crucial for obstacle avoidance 
         <tr>
             <td>UltraSensor 2/3 </td>
             <td>Walls Detection</td>
-            <td>the robot keeps going straight when there are walss from both side but when he detects a big distance it means there is no inner wall so he will turn</td>
+            <td>the robot keeps going straight when there are walls from both side but when he detects a big distance it means there is no inner wall so he will turn</td>
         </tr>
               <tr>
             <td>4 Gyro </td>
