@@ -109,6 +109,41 @@ And this is our last version way more efficient and stable
 
 
 The final program/code for our autonomous vehicle can be found here: 
+Script Breakdown
+Imports and Initialization:
+
+The script imports necessary classes and functions from the pybricks library.
+Initializes two motors, several sensors (ultrasonic and gyro), and sets the gyro sensor angle to zero.
+Initializes the EV3 brick for feedback and control.
+
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/ec371415-06b1-43b8-ae90-3c962796c29b)
+
+Motor and Sensor Setup:
+
+Two motors are configured: a large motor on port D and a smaller motor on port B.
+Ultrasonic sensors are attached to three ports: front (S1), right (S3), and left (S4).
+A gyro sensor is attached to port S2.
+
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/6d5a596c-a874-4f37-9595-b2552c53f574)
+
+Function Definitions:
+
+Functions Turn_Right and Turn_Left are defined to control the small motor for turning the robot.
+
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/3bcdfbcc-2d30-46fe-a6ed-33d2b1b17100)
+
+Main Loop:
+
+The main loop continuously runs, making decisions based on sensor readings.
+The robot moves forward if there is no obstacle within 165 mm in front.
+If the ultrasonic sensors detect obstacles on the right or left, it triggers the respective turning function.
+If the gyro sensor detects that the robot has turned more than 90 degrees in either direction, it adjusts the turn and resets the gyro angle.
+When an obstacle is detected within 165 mm in front, it reverses and turns in the direction with more space.
+
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/dd157978-20c1-46f9-bdc8-0da0267b12bb)
+
+
+
 
 
 ***
