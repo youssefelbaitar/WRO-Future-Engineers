@@ -103,7 +103,8 @@ A 3D model of our first robot version in Studio 2.0 :
 ![finalfirstproduct](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/dbaef324-04d2-4831-9cfe-4c9155e96a13)
 
 This was our first version but the issue it that it wasn't really stable
-![f2584cbe-6115-41a7-b710-c312dd14e4d2-removebg-preview](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/20b291f2-d3e5-4f2c-8db0-7427d46e603a)
+
+![finalfirstproduct_Copy2_Copy_2](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/eef8ec5b-a489-4e2f-b2f3-e04901edf9cb)
 
 And this is our last version way more efficient and stable
 
