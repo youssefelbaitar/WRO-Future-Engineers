@@ -304,7 +304,7 @@ Our vehicle is simple,with only two color sensor crucial for obstacle avoidance 
     </table>
   </body>
 
-![1](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/87ed17b8-d04a-4fbf-a233-6cbe88795520)
+![1](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164657596/79ea859d-f49a-49e5-be9d-69a52c125aae)
 
 
 
