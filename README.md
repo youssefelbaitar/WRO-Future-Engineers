@@ -110,7 +110,7 @@ And this is our last version way more efficient and stable
 
 ***
 ## Strategy
-In the Open Challenge, we initially incorporated a gyro sensor to enhance our robot's navigation accuracy. However, we encountered difficulties during the obstacle challenge, as we didn't have  enough ports for 5 sensors. To address this issue, we decided to replace the gyro sensor with a color sensor. This change allowed our robot to detect athe colors of the obstacles, and the open challenge without gyro worked as good as with it.
+In the Open Challenge, we initially incorporated a gyro sensor to enhance our robot's navigation accuracy. However, we encountered difficulties during the obstacle challenge, as we didn't have  enough ports for 5 sensors. To address this issue, we decided to replace the gyro sensor with a color sensor. This change allowed our robot to detect the colors of the obstacles, and the open challenge without gyro worked as good as with it.
 ## The Open Challenge code for our autonomous vehicle : 
 
 ### Script Breakdown Imports and Initialization:
