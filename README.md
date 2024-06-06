@@ -297,9 +297,9 @@ Our vehicle is simple,with only two color sensor crucial for obstacle avoidance 
             <td>the robot keeps going straight when there are walls from both side but when he detects a big distance it means there is no inner wall so he will turn</td>
         </tr>
               <tr>
-            <td>4 Gyro </td>
-            <td>Turn detection</td>
-            <td> It helps the robot to turn in stable way </td>
+            <td>4 Color sensor </td>
+            <td>Detecting colors</td>
+            <td> it detects the color of the obstacles in the obstacle challenge </td>
         </tr>
     </table>
   </body>
