@@ -110,40 +110,43 @@ And this is our last version way more efficient and stable
 
 ***
 ## Strategy
-In the Open Challenge, we initially incorporated a gyro sensor to enhance our robot's navigation accuracy. However, we encountered difficulties during the obstacle challenge, as we didn't have  enough ports for 5 sensors. To address this issue, we decided to replace the gyro sensor with a color sensor. This change allowed our robot to detect the colors of the obstacles, and the open challenge without gyro worked as good as with it.
-## The Open Challenge code for our autonomous vehicle : 
+This project involves programming a LEGO EV3 robot to autonomously navigate its environment using various sensors. The robot is designed to respond to specific color cues and avoid obstacles detected by ultrasonic sensors. The aim is to demonstrate basic autonomous navigation capabilities using LEGO EV3 MicroPython.
 
-### Script Breakdown Imports and Initialization:
+#1.Code Overview
+Initialization:
+Motors and sensors are connected to specific ports on the EV3 brick.
+Variables such as wheel_turns, detected_color, and prev_angle are initialized.
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/128db3a6-b864-45c1-bb30-5332ec91d7e3)
 
-The script imports necessary classes and functions from the pybricks library.
-Initializes two motors, several sensors (ultrasonic and gyro), and sets the gyro sensor angle to zero.
-Initializes the EV3 brick for feedback and control.
+#2.Turning Functions:
+Functions to turn the robot left and right by controlling the small motor.
 
-![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/ec371415-06b1-43b8-ae90-3c962796c29b)
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/65b71752-392d-4dd3-82bd-d3ab31e80c4a)
 
-### Motor and Sensor Setup:
+#3.Main Loop:
+The robot moves forward while continuously checking for color cues and obstacles.
+It performs different actions based on the detected colors and distances measured by the ultrasonic sensors.
 
-Two motors are configured: a large motor on port D and a smaller motor on port B.
-Ultrasonic sensors are attached to three ports: front (S1), right (S3), and left (S4).
-A gyro sensor is attached to port S2.
+![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/ec534889-77d3-4b35-a2bf-00ea6dc13e53)
 
-![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/6d5a596c-a874-4f37-9595-b2552c53f574)
+#Detailed Explanation
+Color Detection:
 
-### Function Definitions:
+The robot checks the color detected by the color sensor.
+If the color is red, the robot turns left.
+If the color is green, the robot turns right.
+#Obstacle Avoidance:
 
-Functions Turn_Right and Turn_Left are defined to control the small motor for turning the robot.
+The robot moves forward while checking the distance to obstacles in front.
+If the path is clear (distance > 165 mm), it moves forward.
+If an obstacle is detected (distance < 100 mm), the robot decides whether to turn left or right based on the distance to obstacles on either side.
+#Wheel Turns Tracking:
 
-![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/3bcdfbcc-2d30-46fe-a6ed-33d2b1b17100)
+The robot tracks the number of wheel rotations to ensure it completes the intended number of turns.
+After 12 wheel turns, the robot stops.
 
-### Main Loop:
 
-The main loop continuously runs, making decisions based on sensor readings.
-The robot moves forward if there is no obstacle within 165 mm in front.
-If the ultrasonic sensors detect obstacles on the right or left, it triggers the respective turning function.
-If the gyro sensor detects that the robot has turned more than 90 degrees in either direction, it adjusts the turn and resets the gyro angle.
-When an obstacle is detected within 165 mm in front, it reverses and turns in the direction with more space.
 
-![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/dd157978-20c1-46f9-bdc8-0da0267b12bb)
 
 
 
