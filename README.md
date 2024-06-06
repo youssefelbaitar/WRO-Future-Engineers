@@ -112,35 +112,42 @@ And this is our last version way more efficient and stable
 ## Strategy
 This project involves programming a LEGO EV3 robot to autonomously navigate its environment using various sensors. The robot is designed to respond to specific color cues and avoid obstacles detected by ultrasonic sensors. The aim is to demonstrate basic autonomous navigation capabilities using LEGO EV3 MicroPython.
 
-#1.Code Overview
+# 1.Code Overview
 Initialization:
 Motors and sensors are connected to specific ports on the EV3 brick.
 Variables such as wheel_turns, detected_color, and prev_angle are initialized.
+
+<div align=center>
+  
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/128db3a6-b864-45c1-bb30-5332ec91d7e3)
 
-#2.Turning Functions:
+# 2.Turning Functions:
 Functions to turn the robot left and right by controlling the small motor.
 
+<div align=center>
+  
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/65b71752-392d-4dd3-82bd-d3ab31e80c4a)
 
-#3.Main Loop:
+# 3.Main Loop:
 The robot moves forward while continuously checking for color cues and obstacles.
 It performs different actions based on the detected colors and distances measured by the ultrasonic sensors.
 
+<div align=center>
+  
 ![image](https://github.com/youssefelbaitar/WRO-Future-Engineers/assets/164654010/ec534889-77d3-4b35-a2bf-00ea6dc13e53)
 
-#Detailed Explanation
+# Detailed Explanation
 Color Detection:
 
 The robot checks the color detected by the color sensor.
 If the color is red, the robot turns left.
 If the color is green, the robot turns right.
-#Obstacle Avoidance:
+# Obstacle Avoidance:
 
 The robot moves forward while checking the distance to obstacles in front.
 If the path is clear (distance > 165 mm), it moves forward.
 If an obstacle is detected (distance < 100 mm), the robot decides whether to turn left or right based on the distance to obstacles on either side.
-#Wheel Turns Tracking:
+# Wheel Turns Tracking:
 
 The robot tracks the number of wheel rotations to ensure it completes the intended number of turns.
 After 12 wheel turns, the robot stops.
