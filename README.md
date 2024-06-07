@@ -110,7 +110,9 @@ And this is our last version way more efficient and stable
 
 ***
 ## Strategy
-This project involves programming a LEGO EV3 robot to autonomously navigate its environment using various sensors. The robot is designed to respond to specific color cues and avoid obstacles detected by ultrasonic sensors. The aim is to demonstrate basic autonomous navigation capabilities using LEGO EV3 MicroPython.
+In the Open Challenge, we used 3 ultrasonic sensors to avoid the walls, and we initially incorporated a gyro sensor to enhance our robot's navigation accuracy. 
+
+However, we encountered difficulties during the obstacle challenge, as we didn't have  enough ports for 5 sensors. To address this issue, we decided to replace the gyro sensor with a color sensor. This change allowed our robot to detect the colors of the obstacles, and the open challenge without gyro worked as good as with it.
 
 # 1.Code Overview
 Initialization:
